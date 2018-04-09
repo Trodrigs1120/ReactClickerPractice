@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aprodite",
+    "image": "./assets/aphrodite.png"
+  },
+  {
+    "id": 2,
+    "name": "Ares",
+    "image": "./assets/ares.png"
+  },
+  {
+    "id": 3,
+    "name": "Artemis",
+    "image": "./assets/artemis.png"
+  },
+  {
+    "id": 4,
+    "name": "Athena",
+    "image": "./assets/athena.png"
+  },
+  {
+    "id": 5,
+    "name": "Demeter",
+    "image": "./assets/demeter.png"
+  },
+  {
+    "id": 6,
+    "name": "Dionysus",
+    "image": "./assets/dionysus.png"
+  },
+  {
+    "id": 7,
+    "name": "Hades",
+    "image": "./assets/hades.png"
+  },
+  {
+    "id": 8,
+    "name": "Heracles",
+    "image": "./assets/heracles.png"
+  },
+  {
+    "id": 9,
+    "name": "Hermes",
+    "image": "./assets/hermes.png"
+  },
+  {
+    "id": 10,
+    "name": "Zeus",
+    "image": "./assets/zeus.png"
+  },
+  {
+    "id": 11,
+    "name": "Iris",
+    "image": "./assets/iris.png"
+  },
+  {
+    "id": 12,
+    "name": "Poseidon",
+    "image": "./assets/poseidon.png"
+  }
+]
