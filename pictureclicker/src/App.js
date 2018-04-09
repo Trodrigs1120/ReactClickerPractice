@@ -23,6 +23,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Title>Diety Clicker</Title>
+        <p>The gods demand tribute, you must pay tribute to each one by clicking on them. However the gods are a fickle bunch and you will lose if you don't give each one their due. Click each god without repeating in order to win.</p>
         {this.state.friends.map(friend => (
           <FriendCard
             removeFriend={this.removeFriend}
@@ -30,8 +31,6 @@ class App extends Component {
             key={friend.id}
             name={friend.name}
             image={friend.image}
-            occupation={friend.occupation}
-            location={friend.location}
           />
         ))}
       </Wrapper>
