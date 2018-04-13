@@ -1,6 +1,7 @@
 import React from "react";
 import "./FriendCard.css";
 
+
 const FriendCard = props => (
   <div>
   <div className="card">
@@ -10,8 +11,9 @@ const FriendCard = props => (
     <div className="content">
       
     </div>
+  
     <span onClick={() => props.removeFriend(props.id)} className="remove">
-      𝘅
+      O
     </span>
   </div>
   </div>
